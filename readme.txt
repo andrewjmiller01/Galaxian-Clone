@@ -1,0 +1,2 @@
+This is the starter sketchbook that can be used as a basis for the design and implementation of the Galaxian game.
+Team member names are Krishna Sahith Boreda, Andrew Miller, Nikhil Mishra, and Toan Tran.
